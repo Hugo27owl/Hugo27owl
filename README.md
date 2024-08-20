@@ -3,7 +3,7 @@ I'd love help on (Display)[https://github.com/Hugo27owl/Display] --- An overdone
 
 
 
-##### Sites are (Slashnet)[slashnet.framer.ai] , (INTER7)[INTER7.FRAMER.AI] and (FECOL)[FECOL.FRAMER.AI]
+##### Sites are (Slashnet)[https://slashnet.framer.ai] , (INTER7)[https://INTER7.FRAMER.AI] and (FECOL)[https://FECOL.FRAMER.AI]
 
 
 
