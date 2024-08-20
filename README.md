@@ -1,5 +1,35 @@
-- 👋 Hi, I’m @Hugo27owl
-- 👀 I’m interested in tech
-- 💞️ I’m looking to collaborate on BOX_os
-- ⚡ Fun fact: Copilot is a twirl for me!
+# 👋 Hi, I’m Hugo
+I'd love help on (Display)[https://github.com/Hugo27owl/Display] --- An overdone screensaver.
+
+
+
+##### Sites are (Slashnet)[slashnet.framer.ai] , (INTER7)[INTER7.FRAMER.AI] and (FECOL)[FECOL.FRAMER.AI]
+
+
+
+
+
+
+###### Bye the '''README.MD''' is over
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*NOTE: some MD may break 😢*
+
+
 
